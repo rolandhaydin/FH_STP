@@ -62,6 +62,7 @@ namespace LaTeX_Generator
                 temp = filename.Split('\\')[filename.Split('\\').Length - 1];
                 files.Add(temp);
             }
+            files.Sort();
             foreach(var filename in files)
             {
                 temp = "\\begin figure[H]\n" +

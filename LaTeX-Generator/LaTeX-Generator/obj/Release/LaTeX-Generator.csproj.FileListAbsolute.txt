@@ -14,3 +14,17 @@ C:\temp\LaTeX-Generator\LaTeX-Generator\obj\Release\LaTeX-Generator.csproj.Gener
 C:\temp\LaTeX-Generator\LaTeX-Generator\obj\Release\LaTeX-Generator.csproj.CoreCompileInputs.cache
 C:\temp\LaTeX-Generator\LaTeX-Generator\obj\Release\LaTeX-Generator.exe
 C:\temp\LaTeX-Generator\LaTeX-Generator\obj\Release\LaTeX-Generator.pdb
+C:\Users\Roland\Documents\GitHub\FH_STP\LaTeX-Generator\LaTeX-Generator\bin\Release\LaTeX-Generator.exe.config
+C:\Users\Roland\Documents\GitHub\FH_STP\LaTeX-Generator\LaTeX-Generator\bin\Release\LaTeX-Generator.exe
+C:\Users\Roland\Documents\GitHub\FH_STP\LaTeX-Generator\LaTeX-Generator\bin\Release\LaTeX-Generator.pdb
+C:\Users\Roland\Documents\GitHub\FH_STP\LaTeX-Generator\LaTeX-Generator\obj\Release\MainWindow.g.cs
+C:\Users\Roland\Documents\GitHub\FH_STP\LaTeX-Generator\LaTeX-Generator\obj\Release\App.g.cs
+C:\Users\Roland\Documents\GitHub\FH_STP\LaTeX-Generator\LaTeX-Generator\obj\Release\LaTeX-Generator_MarkupCompile.cache
+C:\Users\Roland\Documents\GitHub\FH_STP\LaTeX-Generator\LaTeX-Generator\obj\Release\LaTeX-Generator_MarkupCompile.lref
+C:\Users\Roland\Documents\GitHub\FH_STP\LaTeX-Generator\LaTeX-Generator\obj\Release\MainWindow.baml
+C:\Users\Roland\Documents\GitHub\FH_STP\LaTeX-Generator\LaTeX-Generator\obj\Release\LaTeX-Generator.g.resources
+C:\Users\Roland\Documents\GitHub\FH_STP\LaTeX-Generator\LaTeX-Generator\obj\Release\LaTeX_Generator.Properties.Resources.resources
+C:\Users\Roland\Documents\GitHub\FH_STP\LaTeX-Generator\LaTeX-Generator\obj\Release\LaTeX-Generator.csproj.GenerateResource.cache
+C:\Users\Roland\Documents\GitHub\FH_STP\LaTeX-Generator\LaTeX-Generator\obj\Release\LaTeX-Generator.csproj.CoreCompileInputs.cache
+C:\Users\Roland\Documents\GitHub\FH_STP\LaTeX-Generator\LaTeX-Generator\obj\Release\LaTeX-Generator.exe
+C:\Users\Roland\Documents\GitHub\FH_STP\LaTeX-Generator\LaTeX-Generator\obj\Release\LaTeX-Generator.pdb
