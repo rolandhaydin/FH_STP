@@ -28,3 +28,5 @@ C:\Users\Roland\Documents\GitHub\FH_STP\LaTeX-Generator\LaTeX-Generator\obj\Rele
 C:\Users\Roland\Documents\GitHub\FH_STP\LaTeX-Generator\LaTeX-Generator\obj\Release\LaTeX-Generator.csproj.CoreCompileInputs.cache
 C:\Users\Roland\Documents\GitHub\FH_STP\LaTeX-Generator\LaTeX-Generator\obj\Release\LaTeX-Generator.exe
 C:\Users\Roland\Documents\GitHub\FH_STP\LaTeX-Generator\LaTeX-Generator\obj\Release\LaTeX-Generator.pdb
+C:\Users\Roland\Documents\GitHub\FH_STP\LaTeX-Generator\LaTeX-Generator\obj\Release\LaTeX-Generator.csproj.AssemblyReference.cache
+C:\Users\Roland\Documents\GitHub\FH_STP\LaTeX-Generator\LaTeX-Generator\obj\Release\LaTeX-Generator.csproj.SuggestedBindingRedirects.cache

@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:LaTeX_Generator"
         mc:Ignorable="d"
-        Title="MainWindow" Height="150" Width="487">
+        Title="Naturkautschuksammler" Height="150" Width="487" Icon="/no.png">
     <Grid>
         <Grid.ColumnDefinitions>
             <ColumnDefinition Width="225*"/>
