@@ -1,0 +1,16 @@
+C:\temp\LaTeX-Generator\LaTeX-Generator\bin\Debug\LaTeX-Generator.exe.config
+C:\temp\LaTeX-Generator\LaTeX-Generator\bin\Debug\LaTeX-Generator.exe
+C:\temp\LaTeX-Generator\LaTeX-Generator\bin\Debug\LaTeX-Generator.pdb
+C:\temp\LaTeX-Generator\LaTeX-Generator\obj\Debug\LaTeX-Generator.csproj.AssemblyReference.cache
+C:\temp\LaTeX-Generator\LaTeX-Generator\obj\Debug\LaTeX-Generator.csproj.SuggestedBindingRedirects.cache
+C:\temp\LaTeX-Generator\LaTeX-Generator\obj\Debug\MainWindow.g.cs
+C:\temp\LaTeX-Generator\LaTeX-Generator\obj\Debug\App.g.cs
+C:\temp\LaTeX-Generator\LaTeX-Generator\obj\Debug\LaTeX-Generator_MarkupCompile.cache
+C:\temp\LaTeX-Generator\LaTeX-Generator\obj\Debug\LaTeX-Generator_MarkupCompile.lref
+C:\temp\LaTeX-Generator\LaTeX-Generator\obj\Debug\MainWindow.baml
+C:\temp\LaTeX-Generator\LaTeX-Generator\obj\Debug\LaTeX-Generator.g.resources
+C:\temp\LaTeX-Generator\LaTeX-Generator\obj\Debug\LaTeX_Generator.Properties.Resources.resources
+C:\temp\LaTeX-Generator\LaTeX-Generator\obj\Debug\LaTeX-Generator.csproj.GenerateResource.cache
+C:\temp\LaTeX-Generator\LaTeX-Generator\obj\Debug\LaTeX-Generator.csproj.CoreCompileInputs.cache
+C:\temp\LaTeX-Generator\LaTeX-Generator\obj\Debug\LaTeX-Generator.exe
+C:\temp\LaTeX-Generator\LaTeX-Generator\obj\Debug\LaTeX-Generator.pdb

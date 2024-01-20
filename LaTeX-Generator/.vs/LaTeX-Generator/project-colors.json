@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "49d9550e-721a-4d85-a942-3c6b9a1d94bf": {
+      "ProjectGuid": "49d9550e-721a-4d85-a942-3c6b9a1d94bf",
+      "DisplayName": "LaTeX-Generator",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
