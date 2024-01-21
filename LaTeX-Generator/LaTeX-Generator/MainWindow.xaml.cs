@@ -23,8 +23,10 @@ namespace LaTeX_Generator
     /// </summary>
     public partial class MainWindow : Window
     {
+        public bool cb1 = false;
         public MainWindow()
         {
+           
             InitializeComponent();
         }
 
@@ -57,7 +59,9 @@ namespace LaTeX_Generator
             string temp;
             string temp2 = "";
             int index = 1;
-            foreach(var filename in fn)
+            string addofn = "\n";
+
+            foreach (var filename in fn)
             {
                 temp = filename.Split('\\')[filename.Split('\\').Length - 1];
                 files.Add(temp);
@@ -71,6 +75,11 @@ namespace LaTeX_Generator
                        "    \\caption{" + caption + " - " + index + "}\n" +
                        "    \\label{fig:" + figure + "_" + index + "}\n" +
                        "\\end{figure}\n";
+                if (chb_NewLine.IsChecked == true)
+                {
+                    temp = temp + addofn;
+                }
+                
                 index++;
                 temp2 += temp;
             }
@@ -81,6 +90,11 @@ namespace LaTeX_Generator
         private void btnExit_Click(object sender, RoutedEventArgs e)
         {
             System.Environment.Exit(0);
+        }
+
+        private void CheckBox_Checked(object sender, RoutedEventArgs e)
+        {
+
         }
     }
 }
