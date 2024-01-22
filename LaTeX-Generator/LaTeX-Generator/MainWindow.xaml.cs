@@ -35,7 +35,7 @@ namespace LaTeX_Generator
             OpenFileDialog ofd = new OpenFileDialog();
             ofd.Filter = "PNG|*.png|JPG|*.jpg|JPEG|*.jpeg";
             ofd.Multiselect = true;
-            ofd.InitialDirectory = @"C:\temp\blabla";
+            //ofd.InitialDirectory = @"C:\temp\blabla";
             
             if (ofd.ShowDialog() == true)
             {
@@ -69,7 +69,7 @@ namespace LaTeX_Generator
             files.Sort();
             foreach(var filename in files)
             {
-                temp = "\\begin figure[H]\n" +
+                temp = "\\begin{figure}[H]\n" +
                        "    \\centering\n" +
                        "    \\includegraphics[width=0.9\\linewidth]{" + latexpath + "/" + filename + "}\n" +
                        "    \\caption{" + caption + " - " + index + "}\n" +
