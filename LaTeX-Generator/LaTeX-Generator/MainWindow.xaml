@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:LaTeX_Generator"
         mc:Ignorable="d"
-        Title="Naturkautschuksammler" Height="150" Width="487" Icon="/no.ico">
+        Title="Naturkautschuksammler" Height="200" Width="487" Icon="/no.ico">
     <Grid>
         <Grid.ColumnDefinitions>
             <ColumnDefinition Width="225*"/>
@@ -15,9 +15,10 @@
         <Label Content="Latexpath:" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top"/>
         <TextBox x:Name="txtLatexPath" HorizontalAlignment="Left" Margin="79,14,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="400" Grid.ColumnSpan="3"/>
         <Label Content="Caption:" HorizontalAlignment="Left" Margin="10,33,0,0" VerticalAlignment="Top"/>
-        <TextBox x:Name="txtCaption" HorizontalAlignment="Left" Margin="69,37,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="400" Grid.ColumnSpan="3"/>
+        <TextBox x:Name="txtCaption" HorizontalAlignment="Left" Margin="79,37,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="400" Grid.ColumnSpan="3"/>
         <Label Content="Figure:" HorizontalAlignment="Left" Margin="10,56,0,0" VerticalAlignment="Top"/>
-        <TextBox x:Name="txtFigure" HorizontalAlignment="Left" Margin="69,60,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="400" Grid.ColumnSpan="3"/>
-        <Button Content="Run" HorizontalAlignment="Left" Margin="10,87,0,0" VerticalAlignment="Top" Name="btnRun" Click="btnRun_Click"/>
+        <TextBox x:Name="txtFigure" HorizontalAlignment="Left" Margin="79,60,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="400" Grid.ColumnSpan="3"/>
+        <Button Content="Run + Open Local Folder" HorizontalAlignment="Left" Margin="176,125,0,0" VerticalAlignment="Top" Name="btnRun" Click="btnRun_Click" Grid.ColumnSpan="3"/>
+        <CheckBox Content="Add new Line after each figure" HorizontalAlignment="Left" Margin="10,92,0,0" VerticalAlignment="Top" Checked="CheckBox_Checked" Name="chb_NewLine" IsChecked="True"/>
     </Grid>
 </Window>
